@@ -1,17 +1,13 @@
-[![Header](https://github.com/martynov-lab/martynov-lab/tree/main/assets/header.png)]
+[![Header](https://github.com/martynov-lab/martynov-lab/blob/main/assets/header.png)]
 
-### I'm a Software Engineer 👋 I'm studying at Skillbox I'm studying to produce mobile apps for android.
+### I'm a Software Engineer 👋 I'm studying at Skillbox I'm learning to produce cross-platform mobile apps.
 
 ---
 
  - 🔭 I’m currently working on a mobile application to account for financial expenses [Money Tracker](https://github.com/martynov-lab/money_tracker)
- - 🌱 I’m currently learning ... 
+ - 🌱 I’m currently learning to produce mobile apps for android.
  - 💬 You can write to me: [martinov-studio@yandex.ru](https://mail.yandex.ru)
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 📫 How to reach me -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+
 
 
 
