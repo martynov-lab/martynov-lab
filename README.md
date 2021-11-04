@@ -1,4 +1,4 @@
-[![Header](https://github.com/martynov-lab/martynov-lab/blob/main/assets/header.png)]
+![Header](https://github.com/martynov-lab/martynov-lab/blob/main/assets/header.png)
 
 ### I'm a Software Engineer 👋 I'm studying at Skillbox I'm learning to produce cross-platform mobile apps.
 
