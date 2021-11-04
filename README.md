@@ -1,14 +1,15 @@
-[![Header](https://github.com/martynov-lab/martynov-lab/main/assets/header.png)]
+[![Header](https://github.com/martynov-lab/martynov-lab/tree/main/assets/header.png)]
 
-### I'm a Software Engineer 👋
+### I'm a Software Engineer 👋 I'm studying at Skillbox I'm studying to produce mobile apps for android.
 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ - 🔭 I’m currently working on a mobile application to account for financial expenses [Money Tracker](https://github.com/martynov-lab/money_tracker)
+ - 🌱 I’m currently learning ... 
+ - 💬 You can write to me: [martinov-studio@yandex.ru](https://mail.yandex.ru)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-💬 Ask me about ![martinov-studio@yandex.ru](https://mail.yandex.ru)
-<!-- 📫 How to reach me: ![martinov-studio@yandex.ru](https://mail.yandex.ru) -->
+<!-- - 📫 How to reach me -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
@@ -18,7 +19,6 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-424141?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-424141?style=for-the-badge&logo=dart&logoColor=097CDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-424141?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-424141?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-424141?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
 
