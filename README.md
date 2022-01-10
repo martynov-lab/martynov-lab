@@ -5,7 +5,7 @@
 ---
 
  - 🔭 I’m currently working on a mobile application to account for financial expenses [Money Tracker](https://github.com/martynov-lab/money_tracker)
- - 🌱 I’m currently learning to produce mobile apps for android.
+ - 🌱 I’m currently learning to Flutter.
  - 💬 You can write to me: [martinov-studio@yandex.ru](https://mail.yandex.ru)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martynov-lab&theme=dark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,4 +29,4 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martynov-lab&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![](https://komarev.com/ghpvc/?username=martynov-lab&color=B4068E&style=flat-square)
+<!-- ![](https://komarev.com/ghpvc/?username=martynov-lab&color=B4068E&style=flat-square) -->
