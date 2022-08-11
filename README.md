@@ -1,10 +1,10 @@
 ![Header](https://github.com/martynov-lab/martynov-lab/blob/main/assets/header.png)
 
-### I'm a Software Engineer 👋 I'm studying at Skillbox I'm learning to produce cross-platform mobile apps.
+### I'm a Software Engineer 👋 I work for a company Routeam and continue to study the flutter framework.
 
 ---
 
- - 🔭 I’m currently working on a mobile application to account for financial expenses [Money Tracker](https://github.com/martynov-lab/money_tracker)
+ - 🔭 I’m currently working on a my pet project. It`s app to account for financial expenses [Money Tracker](https://github.com/martynov-lab/money_tracker)
  - 🌱 I’m currently learning to Flutter.
  - 💬 You can write to me: [martinov-studio@yandex.ru](https://mail.yandex.ru)
 
