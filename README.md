@@ -4,7 +4,7 @@
 
 ---
 
- - 🔭 I’m currently working on a my pet project. It`s app to account for financial expenses [Money Tracker](https://github.com/martynov-lab/money_tracker)
+ - 🔭 I’m currently working on a my pet project. It`s app to account for financial expenses [Video Сonference]([https://github.com/martynov-lab/communication_client])
  - 🌱 I’m currently learning to Flutter.
  - 💬 You can write to me: [martinov-studio@yandex.ru](https://mail.yandex.ru)
 
